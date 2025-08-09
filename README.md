@@ -65,32 +65,27 @@ View Transaction History to see past transactions.
 🖥 Sample Output
 
 pgsql
+
 Copy
+
 Edit
+
 User Diya Registered Successfully!
+
 Merchant Rahul Registered Successfully!
+
 ₹5000 added to wallet. Current Balance: ₹5000
+
 Wallet Balance: ₹5000
+
 Wallet Balance: ₹0
+
 Transaction of ₹1500 Successful from Diya to Rahul
+
 ---- Transaction History ----
+
 2025-08-04 17:30:45.123456 | Diya sent ₹1500 to Rahul
 
-📦 Installation & Usage
-
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/gpay-system.git
-cd gpay-system
-Run the Python script
-
-bash
-Copy
-Edit
-python gpay_system.py
 
 📈 Future Enhancements
 
