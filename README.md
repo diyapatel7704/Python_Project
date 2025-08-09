@@ -43,11 +43,17 @@ Object-Oriented Programming Concepts
 📂 Project Structure
 
 perl
+
 Copy
+
 Edit
+
 gpay-system/
+
 │
+
 ├── gpay_system.py        # Main script
+
 ├── README.md             # Project documentation
 
 ⚙️ How It Works
