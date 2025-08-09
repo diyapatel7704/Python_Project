@@ -1,10 +1,12 @@
 💳 Online GPay Payment Simulation System (Python, OOPs)
 
 📌 Overview
+
 The Online GPay Payment Simulation System is a console-based Python project that replicates core functionalities of Google Pay using Object-Oriented Programming (OOP) principles.
 It supports user and merchant registration, secure UPI PIN-based transactions, wallet balance management, and transaction history tracking.
 
 🚀 Features
+
 User & Merchant Registration with unique phone numbers.
 
 Secure Transactions with UPI PIN verification.
@@ -39,6 +41,7 @@ DateTime module (for transaction timestamps)
 Object-Oriented Programming Concepts
 
 📂 Project Structure
+
 perl
 Copy
 Edit
@@ -46,7 +49,9 @@ gpay-system/
 │
 ├── gpay_system.py        # Main script
 ├── README.md             # Project documentation
+
 ⚙️ How It Works
+
 Register Users and Merchants.
 
 Add Money to the wallet.
@@ -58,6 +63,7 @@ Verify UPI PIN before processing the payment.
 View Transaction History to see past transactions.
 
 🖥 Sample Output
+
 pgsql
 Copy
 Edit
@@ -69,7 +75,9 @@ Wallet Balance: ₹0
 Transaction of ₹1500 Successful from Diya to Rahul
 ---- Transaction History ----
 2025-08-04 17:30:45.123456 | Diya sent ₹1500 to Rahul
+
 📦 Installation & Usage
+
 Clone the repository
 
 bash
@@ -83,7 +91,9 @@ bash
 Copy
 Edit
 python gpay_system.py
+
 📈 Future Enhancements
+
 Bank account linking for wallet recharge.
 
 QR code-based payment system.
